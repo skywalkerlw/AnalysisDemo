@@ -1,0 +1,21 @@
+PODS:
+  - Umbrella (0.12.0):
+    - Umbrella/Core (= 0.12.0)
+  - Umbrella/Core (0.12.0)
+  - Umbrella/Mixpanel (0.12.0):
+    - Umbrella/Core
+
+DEPENDENCIES:
+  - Umbrella
+  - Umbrella/Mixpanel
+
+SPEC REPOS:
+  trunk:
+    - Umbrella
+
+SPEC CHECKSUMS:
+  Umbrella: 4faf9786a6b29197608f6483711271104d237646
+
+PODFILE CHECKSUM: 23fd2c5ef7b2028c0b6d46e632af8c488c63c575
+
+COCOAPODS: 1.13.0
